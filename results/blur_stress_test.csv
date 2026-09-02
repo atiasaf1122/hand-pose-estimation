@@ -1,0 +1,5 @@
+model,val_set,pose_mAP50,pose_mAP50_95
+baseline,clean,0.9024,0.7623
+baseline,blurred,0.8600,0.7006
+advanced,clean,0.8675,0.7313
+advanced,blurred,0.8370,0.6888

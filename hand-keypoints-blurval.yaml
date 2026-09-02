@@ -1,0 +1,7 @@
+# blurred-validation copy — webcam-condition stress test
+path: datasets/hand-keypoints-blurval
+train: images/val   # unused (val only)
+val: images/val
+kpt_shape: [21, 3]
+names:
+  0: hand

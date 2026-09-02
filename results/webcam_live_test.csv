@@ -1,0 +1,4 @@
+model,weights,frames,frames_with_detection,hit_rate,mean_confidence
+generic,yolo26n-pose.pt,181,181,1.00,0.89
+baseline,baseline_best.pt,196,196,1.00,0.94
+advanced,advanced_best.pt,189,189,1.00,0.92
